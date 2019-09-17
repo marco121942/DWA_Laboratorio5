@@ -1,0 +1,6 @@
+C:\Users\marco\Music\Semana5-Desarrollo aplicacions web avanzado\Semana05-.Net-master\Entity\bin\Debug\Entity.dll
+C:\Users\marco\Music\Semana5-Desarrollo aplicacions web avanzado\Semana05-.Net-master\Entity\bin\Debug\Entity.pdb
+C:\Users\marco\Music\Semana5-Desarrollo aplicacions web avanzado\Semana05-.Net-master\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\marco\Music\Semana5-Desarrollo aplicacions web avanzado\Semana05-.Net-master\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\marco\Music\Semana5-Desarrollo aplicacions web avanzado\Semana05-.Net-master\Entity\obj\Debug\Entity.dll
+C:\Users\marco\Music\Semana5-Desarrollo aplicacions web avanzado\Semana05-.Net-master\Entity\obj\Debug\Entity.pdb
